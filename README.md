@@ -1,4 +1,4 @@
-# 📋 Smart Task Manager (Flask Web App)
+# 📋 Smart Task Manager - Flask Web App
 
 A modern **Task management web application** built with **Python (Flask)**, **Bootstrap 5**, and **custom CSS**.  
 Easily add, move, and delete tasks between **To Do**, **In Progress**, and **Completed** columns.
