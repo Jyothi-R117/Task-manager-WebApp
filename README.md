@@ -13,7 +13,7 @@ Easily add, move, and delete tasks between **To Do**, **In Progress**, and **Com
   - ✅ **Completed**
 - **Move Tasks** between columns with one click.
 - **Delete Tasks** instantly.
-- **Bootstrap 5 UI** for a clean, responsive design.
+- Used **Bootstrap 5 UI** for a clean, responsive design.
 - **JSON storage** (easy to switch to SQL later).
 
 ---
